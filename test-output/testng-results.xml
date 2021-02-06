@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-02-06T18:54:14 NZDT" name="Default suite" finished-at="2021-02-06T18:54:28 NZDT" duration-ms="14642">
+  <suite started-at="2021-02-06T21:06:37 NZDT" name="Default suite" finished-at="2021-02-06T21:06:50 NZDT" duration-ms="13434">
     <groups>
     </groups>
-    <test started-at="2021-02-06T18:54:14 NZDT" name="Default test" finished-at="2021-02-06T18:54:28 NZDT" duration-ms="14642">
+    <test started-at="2021-02-06T21:06:37 NZDT" name="Default test" finished-at="2021-02-06T21:06:50 NZDT" duration-ms="13434">
       <class name="GoogleTest2.google2.SampleTestNgTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:GoogleTest2.google2.SampleTestNgTest@4c1d9d4b]" started-at="2021-02-06T18:54:14 NZDT" name="setup" finished-at="2021-02-06T18:54:23 NZDT" duration-ms="9144" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:GoogleTest2.google2.SampleTestNgTest@4c1d9d4b]" started-at="2021-02-06T21:06:37 NZDT" name="setup" finished-at="2021-02-06T21:06:45 NZDT" duration-ms="7912" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="assertPageTitle()[pri:0, instance:GoogleTest2.google2.SampleTestNgTest@4c1d9d4b]" started-at="2021-02-06T18:54:23 NZDT" name="assertPageTitle" finished-at="2021-02-06T18:54:28 NZDT" duration-ms="5301" status="PASS">
+        <test-method signature="assertPageTitle()[pri:0, instance:GoogleTest2.google2.SampleTestNgTest@4c1d9d4b]" started-at="2021-02-06T21:06:45 NZDT" name="assertPageTitle" finished-at="2021-02-06T21:06:50 NZDT" duration-ms="5379" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- assertPageTitle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:GoogleTest2.google2.SampleTestNgTest@4c1d9d4b]" started-at="2021-02-06T18:54:28 NZDT" name="tearDown" finished-at="2021-02-06T18:54:28 NZDT" duration-ms="129" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:GoogleTest2.google2.SampleTestNgTest@4c1d9d4b]" started-at="2021-02-06T21:06:50 NZDT" name="tearDown" finished-at="2021-02-06T21:06:50 NZDT" duration-ms="96" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

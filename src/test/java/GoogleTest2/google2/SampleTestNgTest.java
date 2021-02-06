@@ -29,7 +29,7 @@ public class SampleTestNgTest extends TestNgTestBase {
 	public void setup() throws IOException {
 
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Users\\ranje\\eclipse-workspace\\google2\\src\\test\\resources\\chromedriver.exe");
+				".\\src\\test\\resources\\chromedriver.exe");
 		
 		
 		driver = new ChromeDriver();
