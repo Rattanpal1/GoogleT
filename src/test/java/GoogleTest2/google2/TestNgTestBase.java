@@ -56,7 +56,7 @@ public class TestNgTestBase {
 
   
   @AfterSuite(alwaysRun = true)
-  public void tearDown() {
+  public void tearDown() throws IOException {
     WebDriverPool.DEFAULT.dismissAll();
   }
 }

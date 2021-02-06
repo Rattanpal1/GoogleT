@@ -5,6 +5,7 @@
     <classes>
       <class name="GoogleTest2.google2.SampleTestNgTest">
         <methods>
+          <include name="params"/>
           <include name="setup"/>
           <include name="assertPageTitle"/>
           <include name="tearDown"/>
